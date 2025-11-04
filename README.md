@@ -27,7 +27,7 @@ All marks are saved in `~/.dirmarks` by default (you can change it).
 
 # in ~/.bashrc or ~/.zshrc
 `
-   source ~/.local/bin/dirmarks.sh
+   source ~/.local/bin/quicknav.sh
 `
 
 3. Reload your shell:
