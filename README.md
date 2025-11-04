@@ -1,6 +1,5 @@
 # quicknav.sh
 A Bash CLI to bookmark and jump to directories
-A tiny Bash helper to bookmark directories and jump to them fast.
 
 You can:
 
