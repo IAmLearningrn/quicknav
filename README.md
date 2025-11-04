@@ -22,17 +22,18 @@ All marks are saved in `~/.dirmarks` by default (you can change it).
 ## Install
 
 1. Put the script somewhere, e.g.
-
+`
    mkdir -p ~/.local/bin
    cp dirmarks.sh ~/.local/bin/
-
+`
 2. Source it in your shell startup (so that the functions are available in the current shell):
 
 # in ~/.bashrc or ~/.zshrc
-
+`
    source ~/.local/bin/dirmarks.sh
-
+`
 
 3. Reload your shell:
-
+`
    source ~/.bashrc
+`
