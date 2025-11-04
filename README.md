@@ -23,9 +23,9 @@ All marks are saved in `~/.dirmarks` by default (you can change it).
    mkdir -p ~/.local/bin
    cp quicknav.sh ~/.local/bin/
 `
-2. Source it in your shell startup (so that the functions are available in the current shell):
 
 # in ~/.bashrc or ~/.zshrc
+2. Source it in your shell startup (so that the functions are available in the current shell):
 `
    source ~/.local/bin/quicknav.sh
 `
