@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # quicknav.sh
 A Bash CLI to bookmark and jump to directories
 =======
@@ -37,4 +36,3 @@ All marks are saved in `~/.dirmarks` by default (you can change it).
 3. Reload your shell:
 
    source ~/.bashrc
->>>>>>> baa4d36 (Initial commit)
